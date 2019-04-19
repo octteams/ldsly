@@ -24,7 +24,7 @@ if(x=="3"){xxx="benefit.html"}
 if(x=="4"){xxx="economy.html"}
 if(x=="5"){xxx="sport.html"}
 if(x=="6"){xxx="earning.html"}
-if(x=="7"){xxx="working.html"}a_to_ve[i].href="http://www.business-loan.press/1999/01/"+xxx+"?url="+encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+a_to_ve[i].href+"\n";}}
+if(x=="7"){xxx="working.html"}a_to_ve[i].href="http://ldsly.mogie.us/1999/01/"+xxx+"?url="+encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
